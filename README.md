@@ -1,0 +1,1 @@
+This code develops a web-based password generator with an interface for specifying password length, generating, copying, and clearing passwords. It uses Bootstrap for styling and Font Awesome for icons. The form includes inputs and buttons managed by JavaScript functions (`generatePassword()`, clearPassword(), copy()`) linked in an external `script.js file.
